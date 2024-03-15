@@ -1,4 +1,4 @@
-# Docker Android
+# app bank by:didix
 
 General purpose Docker image for Android projects.
 
